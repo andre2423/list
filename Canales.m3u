@@ -33,6 +33,7 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 	http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 DBZ
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+
 #EXTINF:-1 Movies
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 Movies & stuff
@@ -45,3 +46,58 @@ http://12156.vod.adultiptv.net/ph5a8c43e5059e6/play.m3u8
 http://12156.vod.redtraffic.xyz/ph57c24b7a88e10/play.m3u8      	
 #EXTINF:-1
 http://12156.vod.adultiptv.net/ph5c0c204ccebaf/play.m3u8
+
+#EXTINF :-1 FOX SPORTS PREMIUM
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsportp&f=.m3u8
+#EXTINF :-1 CINECANAL
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=cinecanal&f=.m3u8
+#EXTINF :-1 GOLDEN HD
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=golden&f=.m3u8
+#EXTINF :-1 GOLDEN EDGE HD
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=goldenplus&f=.m3u8
+#EXTINF :-1 HBO
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=hboes&f=.m3u8
+#EXTINF :-1 HBO2
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=hbo2&f=.m3u8
+#EXTINF :-1 PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=paramount&f=.m3u8
+#EXTINF :-1 ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=animalp&f=.m3u8
+#EXTINF :-1 DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=discovery&f=.m3u8
+#EXTINF :-1 DISTRITO COMEDIA
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=distritocomedia&f=.m3u8
+#EXTINF :-1 DISNEY XD
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=disneyxd&f=.m3u8
+#EXTINF :-1 SONY CHANNEL
+http://blackghost.live/play/mitv-509.php?id=sony&f=.m3u8
+#EXTINF :-1 TLNOVELAS
+http://blackghost.live/play/mitv-509.php?id=tlnovelas&f=.m3u8
+#EXTINF :-1 CINEMAX
+http://blackghost.live/play/mitv-509.php?id=cinemax&f=.m3u8
+#EXTINF :-1 FXM
+http://blackghost.live/play/mitv-509.php?id=fxm&f=.m3u8
+#EXTINF :-1 STUDIO UNIVERSAL
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=studiouniversal&f=.m3u8
+#EXTINF :-1 UNIVERSAL CHANNEL
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=universalchannel&f=.m3u8
+#EXTINF :-1 FOX SPORTS 1
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
+#EXTINF :-1 ESPN 2
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=espn2mx&f=.m3u8
+#EXTINF :-1 ESPN 3
+https://blackghost.live/play/wistream-509.php?cat=latinos&ch=espn3mx&f=.m3u8
+#EXTINF :-1 LOS SIMPSONS 24/7
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/64064
+#EXTINF :-1 RICK Y MORTY 24/7
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/64039
+#EXTINF :-1 LABORATORIO DE DEXTER 24/7
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/64033
+#EXTINF :-1 BOB ESPONJA 24/7
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/64022
+#EXTINF :-1 GARFIELD
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/64035
+#EXTINF :-1 LOS PICAPIEDRAS
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/64046
+#EXTINF :-1 AFIZZIONADOS
+http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/54335
